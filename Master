@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+  <head>
+    <title>Hello World</title>
+    <link rel="stylesheet" type="text/css" href="nomad.css"/>
+    <script src="koma.js>
+    <script>
+      alert("Welcome and HELLO!!")
+    </script>
+  </head>
+   
+   <body>
+   
+      <div class="logo" id="topRail">
+   
+        <h1>Hello World</h1>
+    
+      </div>
+   
+      <div class="topBar" id="menu">
+   
+        <a href="index.html">Home</a>
+        <a href="about.html">About Flounder</a>
+    
+      </div>
+    </body>
+   </html>
+   
